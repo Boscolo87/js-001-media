@@ -104,7 +104,7 @@ while (controle <= 10) {
 }
 
 controle = 1            // definição da variavel de controle
-while (controle <= 100) {  // cpndição
+while (controle <= 100) {  // condição
     console.log(controle)
     controle = controle + 2 // incremento
 }
